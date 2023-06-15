@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="aqua" text="black">
+    <h2>Complex Form</h2>
+    <form >
+        <fieldset>
+            <legend>PersonaL Information</legend>
+            <label for="name">Name:</label>
+            <input type="text" id="name">
+            <label for="email">Email:</label>
+            <input type="email" id="email"> 
+            <label for="Phone">Phone:</label>
+            <input type="tel" id="Phone"> 
+            <label for="dob">Date of Birth:</label>
+            <input type="date" id="dob"> 
+            <!-- By using this we can select only one radiobutton at a time -->
+            <span>Gender<span>
+            <label for="gender1">Male</label>
+            <input type="radio" name="radio" id="gender1"> 
+            <label for="gender2">Female</label>
+            <input type="radio" name="radio" id="gender2"> 
+            <label for="country">Country:</label>
+            <select name="con" id="country">
+            <option value="Student">India</option>
+            <option value="Professor">Japan</option>
+            <option value="Oth">Indonesia</option>
+            </select>
+        </fieldset>
+        <fieldset>
+            <legend>Address</legend>
+            <label for="street">Street:</label>
+            <input type="text" id="street">
+            <label for="city">City:</label>
+            <input type="email" id="city"> 
+            <label for="state">State:</label>
+            <input type="tel" id="state"> 
+            <label for="zip">Zipcode:</label>
+            <input type="number" id="zip"> 
+        </fieldset>
+        <fieldset>
+            <legend>Other Information</legend>
+            <textarea name="Comments" id="comments" cols="30" rows="10"></textarea>
+            <label for="services">I agree to the terms and services</label>
+            <input type="checkbox" id="services">
+        </fieldset>
+        <button>Submit</button>
+    </form>
+</body>
+</html>
