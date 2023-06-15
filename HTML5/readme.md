@@ -4,6 +4,7 @@
 This repository contains HTML5 files showcasing various features and best practices of HTML5. HTML5 is the latest version of the Hypertext Markup Language (HTML) standard and is widely used for creating web pages and web applications. The files in this repository demonstrate how to leverage HTML5's new elements, attributes, and APIs to build modern and interactive websites.
 
 **Contents**
+
 The repository is organized into the following sections:
 
 1.Basics: This section includes HTML files that cover the fundamental aspects of HTML5, such as the doctype declaration, basic structure, headings, paragraphs, and text formatting.
