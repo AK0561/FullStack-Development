@@ -15,7 +15,7 @@ The repository is organized into the following sections:
 
 4.Media: Here, you can explore HTML5's multimedia capabilities. This includes embedding audio and video using the `<audio>` and `<video>` elements, specifying captions and subtitles, and utilizing the `<canvas>` element for dynamic graphics and animations.
 
-## **Contributing** ##
+### **Contributing** ###
 Contributions to this repository are welcome! If you would like to contribute, please follow these steps:
 
 1.Fork the repository.
