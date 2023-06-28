@@ -1,0 +1,38 @@
+div
+{
+height: 100px;
+width: 100px;
+background-color: burlywood;
+border: 2px solid black;
+display: inline-block;
+}
+#box1
+{
+    position: static;
+}
+#box2
+{
+    position: relative;
+    top: 20px;
+    /* moves from top boundary  */
+    right: 20px;
+    /* moves in left direction */
+    left: 30px;
+    /* moves in right direction */
+    z-index: 1;
+}
+#box3
+{
+    position: absolute;
+    /* the ancestor for the third div tag is body tag now it will move relative to the position of the body tag  */
+    top: 20px;
+    left: 10px;
+    right: 25px;
+    z-index: -2;
+}
+#box4
+{
+    position: fixed;
+    /* this is used to set the nav bars of the website as it moves with content on the web page as its position is fixed */
+    top: 0px;
+}
