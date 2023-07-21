@@ -1,0 +1,31 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: darkolivegreen;
+    color: white;
+    border: 2px solid black;
+    /* position: absolute;
+    top: 100px;
+    left: 100px; */
+    /* transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 1s; */
+    /* propertyname|duration|timing-function|delay */
+    transition: all 2s ease-in-out 0.3s; 
+    /* transform: rotate(10deg); */
+    /* scale(x-axis,y-axis) */
+    /* transform: scale(2.5,1.5); */
+}
+div:hover
+{
+    background-color: springgreen;
+    color: crimson;
+    /* transform: translate(200px); */
+    transform: skew(90deg);
+
+}
+div:active
+{
+    background-color: plum;
+}

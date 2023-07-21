@@ -1,0 +1,21 @@
+/* 1.Percentage */
+#box1
+{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    font-size: 20px;
+}
+/* Here box2 will act like a child to box 1 */
+#box2
+{
+    height: 55px;
+    width: 35%;
+    background-color: burlywood;
+    font-size: 2em;
+    /* 2.Em->2em=2*20px=40px */
+    width: 5em;
+    /* width: 5em means 5 times of the font-size of the element itself */
+    width: 5rem;
+    /* 5rem->font size of the root element i.e. whatever written inside the body tag 5 times of that text size */
+}

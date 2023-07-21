@@ -1,0 +1,22 @@
+/* Block Element  */
+div 
+{
+/* background-color: blueviolet;
+color: azure;
+display: inline; */
+width: 100px;
+height:100px;
+margin: 25px;
+padding: 25px;
+display: inline-block;
+}
+/* Inline Element */
+/* button
+{
+    background-color: aquamarine;
+    display: block;
+} */
+#box2
+{
+    display: none;
+}
