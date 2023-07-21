@@ -1,6 +1,6 @@
 # ReactJS README
 
-![ReactJS logo](https://github.com/AK0561/FullStack-Development/assets/97022114/532c68f5-04ad-489c-a925-a3fd97035e1e)
+![React_logo_wordmark](https://github.com/AK0561/FullStack-Development/assets/97022114/47e59ca5-a59d-4426-9285-c67e3064cb39)
 
 
 ## Description
