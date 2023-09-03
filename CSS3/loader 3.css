@@ -1,0 +1,14 @@
+.loader
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 20px solid yellow;
+    border-top: 20px solid aquamarine;
+    animation: spinAnimate 1.75s ease-in-out 0s infinite normal;
+}
+@keyframes spinAnimate
+{
+    from{transform: rotate(0deg);}
+    to{transform: rotate(360deg);}
+}
