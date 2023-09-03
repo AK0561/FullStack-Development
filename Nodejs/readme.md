@@ -1,7 +1,6 @@
 # Node.js README
 
-![image](https://github.com/AK0561/FullStack-Development/assets/97022114/7f8bdd8a-4c47-4da4-805f-e4837799bf01)
-
+![nodejs-horizontal](https://github.com/AK0561/FullStack-Development/assets/97022114/6637251b-a997-496c-9adb-b941a6d98af2)
 
 ## Introduction
 
