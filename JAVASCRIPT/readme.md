@@ -1,5 +1,7 @@
 # JavaScript README
 
+![javascript-horizontal](https://github.com/AK0561/FullStack-Development/assets/97022114/de19d0cc-6c39-49d1-bc8b-6e5b150ad2c1)
+
 ## Description
 This repository contains JavaScript files showcasing various features and best practices of JavaScript. JavaScript is a powerful programming language widely used for building interactive and dynamic web applications. The files in this repository demonstrate how to leverage JavaScript's capabilities to enhance user experience, handle data, manipulate the DOM, and more.
 
