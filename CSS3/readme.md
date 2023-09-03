@@ -1,5 +1,7 @@
 # CSS3 README
 
+![w3_css-icon](https://github.com/AK0561/FullStack-Development/assets/97022114/2add2809-0099-4269-989c-f887e809fa36)
+
 ## Description
 This repository contains CSS3 files showcasing various features and best practices of CSS3. CSS3 is the latest version of the Cascading Style Sheets (CSS) standard and is widely used for styling and enhancing the presentation of web pages. The files in this repository demonstrate how to leverage CSS3's new selectors, properties, and modules to create visually appealing and responsive designs.
 
