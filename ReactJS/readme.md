@@ -1,7 +1,6 @@
 # ReactJS README
 
-![React_logo_wordmark](https://github.com/AK0561/FullStack-Development/assets/97022114/47e59ca5-a59d-4426-9285-c67e3064cb39)
-
+![reactjs-ar21](https://github.com/AK0561/FullStack-Development/assets/97022114/2d2c3990-b733-46da-96ce-160856db2a5f)![reactjs-ar21](https://github.com/AK0561/FullStack-Development/assets/97022114/2d2c3990-b733-46da-96ce-160856db2a5f)
 
 ## Description
 
