@@ -1,5 +1,7 @@
 # HTML5 README
 
+![w3_html5-icon](https://github.com/AK0561/FullStack-Development/assets/97022114/1254276b-1502-49c6-a87b-87b0d408e876)
+
 ## Description
 This repository contains HTML5 files showcasing various features and best practices of HTML5. HTML5 is the latest version of the Hypertext Markup Language (HTML) standard and is widely used for creating web pages and web applications. The files in this repository demonstrate how to leverage HTML5's new elements, attributes,to build modern and interactive websites.
 
