@@ -10,7 +10,6 @@
 - [Type Annotations](#type-annotations)
 - [Interfaces](#interfaces)
 - [Classes](#classes)
-- [Enums](#enums)
 - [Generics](#generics)
 - [Modules](#modules)
 - [TypeScript Compiler](#typescript-compiler)
@@ -120,5 +119,3 @@ The TypeScript compiler (`tsc`) transpiles TypeScript code into JavaScript, maki
 ## License
 
 Typescript is licensed under the MIT License.
----
-
